@@ -1,0 +1,17 @@
+{
+  "title": "Discovery",
+  "description": "Let users copy or exec code blocks",
+  "details": {
+    "intro": {
+      "text": "00-introduction.md"
+    },
+    "steps": [
+      {
+        "text": "01-prerequisites.md"
+      }
+    ]
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
